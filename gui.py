@@ -28,7 +28,7 @@ class Gui(Tk, Recommendation):
 
     def ak(self):
         try:
-            self.var2 = self.var1.get()
+            self.var2 = self.var1.get().lower()
             Recommendation.__init__(self, self.var2)
             self.xy = self.req_list
             temp1 = Label(self, text='Then, you might like to watch :', bg='#ffffff', fg='#777777', anchor=W,
