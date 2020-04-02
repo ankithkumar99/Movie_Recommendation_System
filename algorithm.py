@@ -76,7 +76,7 @@ class Recommendation:
     def combine_features(row):
         try:
             return row['title'] + " " + row['director'] + " " + row['lead_actors'] + " " + row['genre'] + " " + row[
-                'language'] + " " + row['country'] + " " + row['lead_actors'] + " " + row['lead_actors']
+                'language'] + " " + row['country']
         except:
             print("Error:", row)
 
