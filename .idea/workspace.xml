@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55530218-d25b-44d2-8e65-eead60a8ed22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XwBVAMFd1WcDLgzl1VVq18LXEk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/recommendation.py" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Python.recommendation (1)">
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mini_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mini_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mini_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recommendation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mini_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/recommendation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recommendation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mini_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recommendation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.recommendation" />
+      <item itemvalue="Python.gui" />
+      <item itemvalue="Python.recommendation (1)" />
+      <item itemvalue="Python.kk" />
+      <item itemvalue="Python.class" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.recommendation (1)" />
+        <item itemvalue="Python.gui" />
+        <item itemvalue="Python.kk" />
+        <item itemvalue="Python.class" />
+        <item itemvalue="Python.recommendation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55530218-d25b-44d2-8e65-eead60a8ed22" name="Default Changelist" comment="" />
+      <created>1581947297632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581947297632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="98" width="800" height="677" key="#Inspections" timestamp="1582727281503">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="395" y="98" width="800" height="677" key="#Inspections/0.27.1600.822@0.27.1600.822" timestamp="1582727281503" />
+    <state x="395" y="98" width="800" height="677" key="#Notifications" timestamp="1585220756465">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="395" y="98" width="800" height="677" key="#Notifications/0.27.1600.822@0.27.1600.822" timestamp="1585220756465" />
+    <state x="258" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585317963400">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="258" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.822@0.27.1600.822" timestamp="1585317963400" />
+    <state x="533" y="186" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585807738064">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="533" y="186" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1600.822@0.27.1600.822" timestamp="1585807738064" />
+    <state x="662" y="193" width="424" height="513" key="FileChooserDialogImpl" timestamp="1585809975761">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="662" y="193" width="424" height="513" key="FileChooserDialogImpl/0.27.1600.822@0.27.1600.822" timestamp="1585809975761" />
+    <state width="1577" height="204" key="GridCell.Tab.0.bottom" timestamp="1585810105049">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state width="1577" height="204" key="GridCell.Tab.0.bottom/0.27.1600.822@0.27.1600.822" timestamp="1585810105049" />
+    <state width="1577" height="204" key="GridCell.Tab.0.center" timestamp="1585810105049">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state width="1577" height="204" key="GridCell.Tab.0.center/0.27.1600.822@0.27.1600.822" timestamp="1585810105049" />
+    <state width="1577" height="204" key="GridCell.Tab.0.left" timestamp="1585810105049">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state width="1577" height="204" key="GridCell.Tab.0.left/0.27.1600.822@0.27.1600.822" timestamp="1585810105049" />
+    <state width="1577" height="204" key="GridCell.Tab.0.right" timestamp="1585810105049">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state width="1577" height="204" key="GridCell.Tab.0.right/0.27.1600.822@0.27.1600.822" timestamp="1585810105049" />
+    <state width="1577" height="251" key="GridCell.Tab.1.bottom" timestamp="1582999548274">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state width="1577" height="251" key="GridCell.Tab.1.bottom/0.27.1600.822@0.27.1600.822" timestamp="1582999548274" />
+    <state width="1577" height="251" key="GridCell.Tab.1.center" timestamp="1582999548273">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state width="1577" height="251" key="GridCell.Tab.1.center/0.27.1600.822@0.27.1600.822" timestamp="1582999548273" />
+    <state width="1577" height="251" key="GridCell.Tab.1.left" timestamp="1582999548273">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state width="1577" height="251" key="GridCell.Tab.1.left/0.27.1600.822@0.27.1600.822" timestamp="1582999548273" />
+    <state width="1577" height="251" key="GridCell.Tab.1.right" timestamp="1582999548274">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state width="1577" height="251" key="GridCell.Tab.1.right/0.27.1600.822@0.27.1600.822" timestamp="1582999548274" />
+    <state x="446" y="87" key="SettingsEditor" timestamp="1585489790705">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="446" y="87" key="SettingsEditor/0.27.1600.822@0.27.1600.822" timestamp="1585489790705" />
+    <state x="100" y="125" width="1400" height="624" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1585808067731">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="100" y="125" width="1400" height="624" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.27.1600.822@0.27.1600.822" timestamp="1585808067731" />
+    <state x="100" y="125" width="1400" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585807925968">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="100" y="125" width="1400" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1600.822@0.27.1600.822" timestamp="1585807925968" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585488662583">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.27.1600.822@0.27.1600.822" timestamp="1585488662583" />
+    <state x="463" y="170" width="672" height="678" key="search.everywhere.popup" timestamp="1585807903037">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="463" y="170" width="672" height="678" key="search.everywhere.popup/0.27.1600.822@0.27.1600.822" timestamp="1585807903037" />
+    <state x="525" y="349" width="540" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585220786717">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="525" y="349" width="540" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1600.822@0.27.1600.822" timestamp="1585220786717" />
+  </component>
+</project>
