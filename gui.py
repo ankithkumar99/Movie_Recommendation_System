@@ -7,7 +7,7 @@ class Gui(Tk, Recommendation):
         Tk.__init__(self, master)
         self.title("Noel's Ktm")
         self.geometry('800x600')
-        #self.iconbitmap('icon.ico')
+        self.iconbitmap('icon.ico')
         self.var1 = StringVar()
         self.var2 = StringVar()
         self.xy = []
