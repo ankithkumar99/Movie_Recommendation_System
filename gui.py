@@ -5,7 +5,7 @@ from algorithm import *
 class Gui(Tk, Recommendation):
     def __init__(self, master=None):
         Tk.__init__(self, master)
-        self.title("Noel's Ktm")
+        self.title("Noel's KTM")
         self.geometry('800x600')
         self.iconbitmap('icon.ico')
         self.var1 = StringVar()
