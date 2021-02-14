@@ -5,6 +5,7 @@
 
 ## Download Packages
 * [install/update pip](https://pypi.org/project/pip/)
+* [numpy](https://pypi.org/project/numpy/)
 * [pandas](https://pypi.org/project/pandas/)
 * [sklearn](https://pypi.org/project/sklearn/)
 * [tkinter](https://pypi.org/project/tkinter-temps/)
