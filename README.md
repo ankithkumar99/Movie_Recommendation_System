@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 
-##### Clone the repository and run [gui.py](https://github.com/ankithkumar99/Movie-Recommendation-System/blob/master/gui.py) file
+##### Clone the repository, download requirements and run [gui.py](https://github.com/ankithkumar99/Movie-Recommendation-System/blob/master/gui.py) file
 
 ## Download Packages
 * [install/update pip](https://pypi.org/project/pip/)
