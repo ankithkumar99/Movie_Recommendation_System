@@ -13,7 +13,7 @@
 
 ## Brief Explanation
 * About Dataset
-  * The source of my [dataset](https://github.com/ankithkumar99/Movie-Recommendation-System/blob/master/IMDb%20movies.csv) is from [Kaggle](https://www.kaggle.com/).
+  * The source of my [dataset](https://github.com/ankithkumar99/Movie-Recommendation-System/blob/master/IMDb%20movies.csv) is [Kaggle](https://www.kaggle.com/).
   * Due to large size, I had to split the dataset of each 5000 records and stored in [Dataset1](https://github.com/ankithkumar99/Movie-Recommendation-System/tree/master/Dataset1) folder. [chunk.py](https://github.com/ankithkumar99/Movie-Recommendation-System/tree/master/chunk.py) is code file.
 * Algorithm file - [algorithm.py](https://github.com/ankithkumar99/Movie-Recommendation-System/tree/master/algorithm.py)
   * Note : [algorithm_notebook.ipynb](https://github.com/ankithkumar99/Movie-Recommendation-System/tree/master/algorithm_notebook.ipynb) is for reference.
